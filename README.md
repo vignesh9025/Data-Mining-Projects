@@ -1,45 +1,23 @@
 # Mining Hospital and Air Quality Data
 
-> **[?]** 
-> Provide short description for your project here.
-
-
-
----
-
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions - just the ones relevant to your project.
-
-
+This project involves the analysis of hospital and air quality data, cleaning the dataset and extracting useful information from it.
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
+R
 
 ## Getting Started
 
 ### Prerequisites
 
-> **[?]**
-> What are the project requirements/dependencies?
+* R
+* RStudio
 
 ### Installation
 
-> **[?]**
-> Proceed to describe how to install and get started with the project.
-
-## Usage
-
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+Clone the repo, and open the file through RStudio to run it.
 
 ## Roadmap
 
@@ -58,7 +36,6 @@ Reach out to the maintainer at one of the following places:
 
 - [GitHub issues](https://github.com/vignesh-pagadala/mining-hospital-and-air-quality-data/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 - The email which is located [in GitHub profile](https://github.com/vignesh-pagadala)
-
 
 ## Contributing
 
@@ -89,6 +66,4 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
-> **[?]**
-> If your work was funded by any organization or institution, acknowledge their support here.
-> In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
+I would like to thank Jeff Leek, Roger Peng and Brian Caffo for their excellent instruction. I would also like to thank Coursera for putting together this excellent course.
