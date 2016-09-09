@@ -29,9 +29,6 @@ See the [open issues](https://github.com/vignesh-pagadala/mining-hospital-and-ai
 
 ## Support
 
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
-
 Reach out to the maintainer at one of the following places:
 
 - [GitHub issues](https://github.com/vignesh-pagadala/mining-hospital-and-air-quality-data/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
